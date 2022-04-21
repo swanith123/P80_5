@@ -1,0 +1,30 @@
+body{
+    font-family: 'Urbanist', sans-serif;
+    text-align: center;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+background: linear-gradient(90deg, rgba(0,255,244,1) 0%, rgba(14,216,237,1) 50%, rgba(23,48,221,1) 100%);
+}
+
+#p1{
+    margin-left: 400px;
+    color: #000000;
+    font-weight: bold ;
+}
+
+#p2{
+    margin-right: 400px;
+    color: #000000;
+    font-weight: bold ;
+}
+.footer{
+    position:fixed;
+    bottom:0;
+    text-align: center;
+    width:100%;
+    background-color: rgb(255, 207, 136);   
+    color: rgb(102, 102, 102);
+    font-size: 20px;
+    padding: 10px;
+    
+}
